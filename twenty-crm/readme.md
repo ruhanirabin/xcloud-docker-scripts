@@ -1,6 +1,6 @@
 # twenty-crm xCloud script
-Modified from original twenty-crm `docker-compose.yml` and `.env`
-[twenty Github repo](https://github.com/twentyhq/twenty/tree/main/packages/twenty-docker)
+- Modified from original twenty-crm `docker-compose.yml` and `.env`
+- [twenty Github repo](https://github.com/twentyhq/twenty/tree/main/packages/twenty-docker)
 
 ## Description
 Allows you to deploy twenty-crm on xCloud

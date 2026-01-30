@@ -17,7 +17,7 @@ The following environment variables must be configured in `.env`:
 
 - **SERVER_URL**: Your domain from xCloud (e.g., `https://short.domain.net`)
 - **APP_SECRET**: 32-character random string generated via `openssl rand -base64 32`
-- **PG_DATABASE_PASSWORD**: PostgreSQL password (change from default)
+- **PG_DATABASE_PASSWORD**: PostgreSQL password (change from default - try not to use special characters in it)
 - **STORAGE_TYPE**: `local` or `s3` for file storage
 - **STORAGE_S3_***: S3 bucket credentials (if using S3)
 

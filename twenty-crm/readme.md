@@ -1,5 +1,5 @@
 # twenty-crm xCloud script
-- modified from original twenty-crm docker-compose.yml and .env
+- modified from original twenty-crm `docker-compose.yml` and `.env`
 
 ## Description
 Allows you to deploy twenty-crm on xCloud

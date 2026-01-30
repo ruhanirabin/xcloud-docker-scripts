@@ -1,4 +1,8 @@
 # twenty-crm xCloud script
+
+## Files
+- [docker-compose.yml](docker-compose.yml)
+- [.ENV](.env)
 - Modified from original twenty-crm `docker-compose.yml` and `.env`
 - [twenty Github repo](https://github.com/twentyhq/twenty/tree/main/packages/twenty-docker)
 
